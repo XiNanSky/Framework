@@ -1,0 +1,14 @@
+{
+    "name": "com.unity.framework",
+    "displayName": "XiNan Framework",
+    "description": "framework",
+    "version": "1.0.5",
+    "unity": "2018.4.36.f1",
+    "license": "MIT",
+    "author": "xinan",
+    "keywords": [
+        "framework",
+        "xinan",
+        "unity"
+    ]
+}
