@@ -10,5 +10,10 @@
         "framework",
         "xinan",
         "unity"
-    ]
+    ],
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/XiNanSky/com.unity.framework.git",
+    "revision": "42654af0"
+  }
 }
